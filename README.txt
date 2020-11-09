@@ -1,4 +1,4 @@
-BENCHMARK IMPLEMENTATION FOR "Comparison of Weakly Supervised Learning Methods on the Case of Fraud Detection"
+BENCHMARK FOR THE PAPER “On the intrinsic robustness to noise of some leading classifiers and symmetric loss function - an empirical evaluation”
 
 Description of folders :
  - Benchmark : Sources for the module implemented
